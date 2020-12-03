@@ -1,5 +1,5 @@
-import React, { Component } from "react";
-import { Link, HashRouter, Redirect } from "react-router-dom";
+import React from "react";
+import { Link, HashRouter } from "react-router-dom";
 import "../NavBar/navBar.css";
 
 function NavBar() {

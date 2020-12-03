@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 
 function Portfolio() {
   return <h1>These are my projects</h1>;

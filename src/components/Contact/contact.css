@@ -1,0 +1,37 @@
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("https://cdn.pixabay.com/photo/2020/11/24/10/37/osaka-5772121__340.jpg");
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-size: 100vw 100vh;
+}
+
+.contact-elements {
+  font-size: 65px;
+  display: flex;
+  height: 44vh;
+  width: 65vw;
+  text-decoration: none !important;
+  background-color: rgb(31, 26, 20);
+  opacity: 0.8;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.contact-with-label {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column-reverse;
+  align-items: center;
+  text-decoration: none !important;
+  font-weight: bolder;
+}
+.contact-with-label a {
+  text-decoration: none !important;
+  color: rgb(37, 186, 245);
+}

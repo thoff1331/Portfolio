@@ -1,0 +1,23 @@
+[
+    {
+     "label": "Phone",
+     "value": "435-633-3142"
+        
+    },
+    {
+        "label": "Email",
+        "value":"Trevorrhoffman@gmail.com",
+        "src": "mailto: Trevorrhoffman@gmail.con"
+        
+    },
+    {
+        "label": "GitHub",
+        "value":"https://github.com/thoff1331",
+        "src": "https://github.com/thoff1331"
+    },
+    {
+        "label": "LinkedIn",
+        "value":"https://www.linkedin.com/in/trevorrhoffman/",
+        "src": "https://www.linkedin.com/in/trevorrhoffman/"
+    }
+]
