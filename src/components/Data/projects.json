@@ -1,0 +1,29 @@
+[
+    {
+     "title": "Golf Guys",
+     "descripton": "Full stack Application that allows users to post about their recent golf experiences and facilitate future events.",
+     "website": "https://github.com/thoff1331/golfguys",
+     "img1": "https://static.wixstatic.com/media/4f1bc7_6bf16a2e7bb44c31ae085c139cdb2aca~mv2.png/v1/fill/w_439,h_220,al_c,q_85,usm_0.66_1.00_0.01/login_c0b317c1.webp",
+     "img2": "https://static.wixstatic.com/media/4f1bc7_f2183fa9c0e34defb924fd1e0edf0645~mv2.png/v1/fill/w_456,h_220,al_c,q_85,usm_0.66_1.00_0.01/home_64d2aff6.webp",
+    "img3": "https://static.wixstatic.com/media/4f1bc7_071978f222f7442ca25720a3e8f03972~mv2.png/v1/fill/w_456,h_220,al_c,q_85,usm_0.66_1.00_0.01/post_6cb9337c.webp"   
+    },
+    {
+        "title": "Geo-Chat",
+        "descripton": "Full stack Application that allows users to join chatrooms based off their location and mutual interests.",
+        "website": "https://github.com/geo-chat/geo-chat",
+        "img1": "https://static.wixstatic.com/media/4f1bc7_206c8eca22034bb2a21e8416a025aacb~mv2.png/v1/fill/w_449,h_240,al_c,q_85,usm_0.66_1.00_0.01/homescreen_9bb88212.webp",
+        "img2": "https://static.wixstatic.com/media/4f1bc7_6b3f51bcc5164b8f962f93484e44eb54~mv2.png/v1/fill/w_457,h_251,al_c,q_85,usm_0.66_1.00_0.01/chatlist_06a596a6.webp"
+       },    {
+        "title": "Tooele County Realtor",
+        "descripton": "Single Page application built for a Realtor to be able to showcase her listings, receive inquires from potential clients.",
+        "website": "https://www.tooelecountyrealtor.com/",
+        "img1": "https://static.wixstatic.com/media/4f1bc7_2b64a981ad884b069addfd901fa5b6f4~mv2.png/v1/fill/w_471,h_229,al_c,q_85,usm_0.66_1.00_0.01/Screen%20Shot%202020-11-22%20at%207_48_56%20AM.webp",
+        "img2": "https://static.wixstatic.com/media/4f1bc7_cfaaf3c4dd224759a7e19b73812daf3e~mv2.png/v1/fill/w_437,h_222,al_c,q_85,usm_0.66_1.00_0.01/Screen%20Shot%202020-11-22%20at%207_51_25%20AM.webp"
+       },    {
+        "title": "Food Finder",
+        "descripton": "SPA for finding restaurants based on City,State, and type, built with easily maintainable API to modify results.",
+        "website": "https://dazzling-cray-150bd2.netlify.app/",
+        "img1": "https://static.wixstatic.com/media/4f1bc7_f93d5233a39f4dc9b7209f5ca8267839~mv2.png/v1/fill/w_427,h_229,al_c,q_85,usm_0.66_1.00_0.01/Screen%20Shot%202020-11-30%20at%209_40_35%20AM.webp",
+        "img2": "https://static.wixstatic.com/media/4f1bc7_8134a670fb3149f8b041d4ef37196e62~mv2.png/v1/fill/w_441,h_222,al_c,q_85,usm_0.66_1.00_0.01/Screen%20Shot%202020-11-30%20at%209_41_04%20AM.webp"
+       }
+]

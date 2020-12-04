@@ -1,0 +1,35 @@
+.about-container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://media.istockphoto.com/photos/18th-hole-at-banff-springs-golf-course-banff-canada-picture-id1181164537?b=1&k=6&m=1181164537&s=170667a&w=0&h=VqC-Vn-zB6XApn63ch19JhwltRXbNkX6NnNHkb8M2To=");
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-size: 100vw 100vh;
+}
+
+.about-elements {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 60vw;
+}
+.about-elements img {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+.about-elements p {
+  background-color: rgb(19, 114, 114);
+  opacity: 0.9;
+  font-size: 50px;
+  height: 40vh;
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+  color: rgb(239, 250, 238);
+}

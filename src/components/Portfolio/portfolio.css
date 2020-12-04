@@ -1,0 +1,52 @@
+.project-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("https://media.istockphoto.com/photos/blank-front-real-black-chalkboard-background-texture-in-college-for-picture-id1201544779?b=1&k=6&m=1201544779&s=170667a&w=0&h=ymstzSVjGXU2o1gGHb7iI2X7OemwsY6XySFSwzlI_cM=");
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-size: 100vw 200vh;
+  height: 200vh;
+}
+
+.project-elements {
+  width: 45vw;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+}
+.project-elements h1 {
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: underline;
+}
+.project-elements h2 {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.project-elements a {
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: underline;
+
+  color: white;
+}
+.project-elements img {
+  margin-top: 4vh;
+  height: 200px;
+  width: 200px;
+}
+
+.project-images {
+  display: flex;
+  justify-content: space-evenly;
+}

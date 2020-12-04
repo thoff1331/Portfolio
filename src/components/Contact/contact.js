@@ -1,9 +1,7 @@
 import React from "react";
 import "../Contact/contact.css";
 import contacts from "../Data/contactInfo.json";
-import { Link } from "react-router-dom";
 
-function fa() {}
 function Contact() {
   return (
     <div className="contact-container">
